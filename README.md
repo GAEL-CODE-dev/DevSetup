@@ -1,47 +1,39 @@
-# DevSetup - Mon premier Environnement Dev
+# 🛠️ DevSetup – Mon Premier Environnement Dev
 
-Bienvenue dans DevSetup le projet qui marque le debut de mon aventure en developpement ! Ce repository contient l'ensemble des outils et configurations nécessaires pour mettre en place un environnement de travail moderne , ainsi que les prémières bases de git et github
-
----
-
-## Objectif du projet 
-
-- Installer et configurer vscode ,Git ,et node.js.
--Créer un compte Github et maitriser les commandes Git essentielles ('init' , 'add' , 'commit' , 'push').
--Comprendre la structure d'un projet bien organisé.
--Effectuer son premier commit et publier son premier repository public.
+> Projet réalisé dans le cadre de la **Phase 1 – Environnement & Setup** – Akeri Academy
 
 ---
 
-## structure du projet
+## 📖 À quoi sert ce repository ?
 
+Ce repository est le fruit de mon tout premier projet de développement. Il a pour but de :
+
+- Documenter l'installation de mon environnement de travail (VSCode, Git, Node.js).
+- Servir de terrain d'entraînement pour maîtriser les commandes Git.
+- Fournir une base de notes personnelles sur l'apprentissage du développement web.
+- Être un exemple de repository bien structuré et documenté.
+
+---
+
+## 👥 Qui peut utiliser ce repo ?
+
+- **Moi-même** : pour garder une trace de ma configuration et de mes progrès.
+- **Mes formateurs** : pour évaluer la qualité de mon travail et de ma documentation.
+- **Toute personne débutant en développement** : qui souhaite s'inspirer d'une structure propre et d'un README bien rédigé.
+
+---
+
+## 📂 Structure du repository
 DevSetup/
-├── .gitignore # Fichiers à exclure du versionnement
-├── README.md # Ce fichier
-├── notes/ # Dossier contenant vos notes de suivi
-│ ├── jour1.md
-│ ├── jour2.md
-│ └── jour3.md
-└── (fichiers optionnels)
+│
+├── README.md # Ce fichier – guide d'utilisation du repo
+├── .gitignore 
+│
+├── notes/ # Dossier contenant mes notes de suivi
+│ ├── jour1.md 
+│ ├── jour2.md 
+│ └── jour3.md 
 
 
 ---
 
-## 🚀 Installation et configuration
-
-### 1. Installer les outils
-
-- **VSCode** : téléchargez-le sur [code.visualstudio.com](https://code.visualstudio.com).
-- **Git** : téléchargez-le sur [git-scm.com](https://git-scm.com).
-- **Node.js** : téléchargez la version LTS sur [nodejs.org](https://nodejs.org).
-
-### 2. Configurer Git
-
-Ouvrez un terminal et exécutez :
-
-```bash
-git config --global user.name "GAEL-CODE-dev"
-git config --global user.email "gaelyangu@gmail.com"
-
-Remerciements
-Ce projet a été réalisé dans le cadre de la Phase 1 – Environnement & Setup de l’Akeri Academy.
