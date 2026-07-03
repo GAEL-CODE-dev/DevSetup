@@ -1,21 +1,16 @@
-#  DevSetup – Environnement de Développement
+# mon premier projet d'environnement
 
-> Projet réalisé dans le cadre de la **Phase 1 – Environnement & Setup** – Akieni Academy
+ce guide vous accompagne pas à pas pour installer votre environnrment de développement, configurer git et github, et réaliser votre premier depots.
 
----
+## Objectif du projets 
 
-##  À propos de ce repository
+1- installer et configurer VScode,Git et node.js
+2- comprendre les bases du terminal et du fonctionnement du web.
+3- créer un compte Github et effectuer votre pré,ier commit.
+4- maitriser les commandes essentielles de Git (init, qdd, commit, push).
 
-Ce repository documente l'installation et la configuration de mon environnement de développement complet. Il sert à la fois de :
+## Comment utiliser ce dépots
 
-## Outils installés
-
--VSCODE
--Git
--Node.js
-
-## Comment utiliser ce repo
-
-1. cloner le repo : git clone 
-2.Ouvrir avec Vscode
-
+1- clonez-le sur votre machine 
+2- ouvrez-le dans VScode
+3-explorew les fichiers 
