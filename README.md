@@ -23,17 +23,5 @@ Ce repository est le fruit de mon tout premier projet de développement. Il a po
 
 ---
 
-## 📂 Structure du repository
-DevSetup/
-│
-├── README.md # Ce fichier – guide d'utilisation du repo
-├── .gitignore 
-│
-├── notes/ # Dossier contenant mes notes de suivi
-│ ├── jour1.md 
-│ ├── jour2.md 
-│ └── jour3.md 
 
-
----
 
