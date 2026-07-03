@@ -1,27 +1,21 @@
-# 🛠️ DevSetup – Mon Premier Environnement Dev
+#  DevSetup – Environnement de Développement
 
-> Projet réalisé dans le cadre de la **Phase 1 – Environnement & Setup** – Akeri Academy
-
----
-
-## 📖 À quoi sert ce repository ?
-
-Ce repository est le fruit de mon tout premier projet de développement. Il a pour but de :
-
-- Documenter l'installation de mon environnement de travail (VSCode, Git, Node.js).
-- Servir de terrain d'entraînement pour maîtriser les commandes Git.
-- Fournir une base de notes personnelles sur l'apprentissage du développement web.
-- Être un exemple de repository bien structuré et documenté.
+> Projet réalisé dans le cadre de la **Phase 1 – Environnement & Setup** – Akieni Academy
 
 ---
 
-## 👥 Qui peut utiliser ce repo ?
+##  À propos de ce repository
 
-- **Moi-même** : pour garder une trace de ma configuration et de mes progrès.
-- **Mes formateurs** : pour évaluer la qualité de mon travail et de ma documentation.
-- **Toute personne débutant en développement** : qui souhaite s'inspirer d'une structure propre et d'un README bien rédigé.
+Ce repository documente l'installation et la configuration de mon environnement de développement complet. Il sert à la fois de :
 
----
+## Outils installés
 
+-VSCODE
+-Git
+-Node.js
 
+## Comment utiliser ce repo
+
+1. cloner le repo : git clone 
+2.Ouvrir avec Vscode
 
