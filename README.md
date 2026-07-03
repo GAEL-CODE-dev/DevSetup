@@ -1,14 +1,10 @@
-# mon premier projet d'environnement
+# DevSetup – Mon environnement de développement
 
-ce guide vous accompagne pas à pas pour installer votre environnrment de développement, configurer git et github, et réaliser votre premier depots.
+Ce dépôt contient la configuration initiale et les notes prises lors de la mise en place de mon environnement de développement web.
 
-## Objectif du projets 
+##  Objectif
 
-1- installer et configurer VScode,Git et node.js
-2- comprendre les bases du terminal et du fonctionnement du web.
-3- créer un compte Github et effectuer votre pré,ier commit.
-4- maitriser les commandes essentielles de Git (init, qdd, commit, push).
-
+Ce projet a été réalisé dans le cadre de la **Phase 1 – Environnement & Outils** de la formation Akeri Academy. Il atteste de la maîtrise des bases de Git, de la navigation en ligne de commande et de l’utilisation de GitHub.
 ## Comment utiliser ce dépots
 
 1- clonez-le sur votre machine 
