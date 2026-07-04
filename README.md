@@ -11,4 +11,4 @@ Ce projet a été réalisé dans le cadre de la **Phase 1 – Environnement & Ou
 
 2- ouvrez-le dans VScode.
 
-3-explorew les fichiers. 
+3-explorez les fichiers. 
